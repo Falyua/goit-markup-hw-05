@@ -202,12 +202,12 @@ nav {
   margin-left: auto;
 }
 
-.adress-link svg {
+.adres-link svg {
   fill: currentColor;
   margin-right: 10px;
 }
 
-.adress-link:hover svg {
+.adres-link:hover svg {
   fill: currentColor;
 }
 
@@ -393,8 +393,7 @@ nav {
 
 .social-list {
   display: flex;
-  width: 170px;
-  margin: 0 auto;
+  padding: 0 30px;
   justify-content: space-between;
 }
 
